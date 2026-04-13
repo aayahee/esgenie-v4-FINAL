@@ -1,7 +1,0 @@
-numpy
-matplotlib
-streamlit
-pandas
-plotly
-scripy
-minimize
